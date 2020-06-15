@@ -1,0 +1,20 @@
+# Rank/Title:
+# ===========
+invalid_rank:
+  - '&7[&eRANK&7] Invalid rank.'
+invalid_title:
+  - '&7[&eTITLE&7] Invalid title.'
+buildrank_set:
+  - '&7[&eRANK&7] Your buildrank has been set to %rank%&7.'
+staffrank_set:
+  - '&7[&eRANK&7] Your staffrank has been set to %rank%&7.'
+title_set:
+  - '&7[&eTITLE&7] Your title has been set to %title%&7.'
+title_set_other:
+  - "&7[&eTITLE&7] You set %player%'s title to %title%&7."
+rank_set_other:
+  - "&7[&eRank&7] You set %player%'s rank to %rank%&7."
+no_access_title:
+  - '&7[&eTITLE&7] &cYou do not have access to that title!'
+title_unlocked:
+  - "&7[&eTITLE&7] &aCongrats! &7You just unlocked the %rank% rank."

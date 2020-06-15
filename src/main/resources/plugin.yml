@@ -1,0 +1,17 @@
+name: VivatRank
+version: '2.0.0'
+description: Rank add-on for Vivat
+author: Robnoo02
+main: net.vivatcreative.rank.VivatRank
+depend: [VivatCore]
+softdepend: [PlaceholderAPI]
+
+commands:
+  title:
+    usage: /<command>
+    description: Choose a custom title!
+    aliases: [titles]
+  rank:
+    usage: /<command>
+    description: Manage ranks!
+    aliases: [ranks]
